@@ -33,7 +33,6 @@ const data: WheelData[] = [
     },
     { option: 'Sushi Mentai', style: { backgroundColor: 'white' } },
     { option: '鼎泰丰' },
-    { option: 'bird bird' },
     { option: 'Mookata' },
     { option: 'Banana Bro' },
     { option: 'KFC' },
